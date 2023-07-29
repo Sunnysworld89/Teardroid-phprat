@@ -56,7 +56,7 @@ OpenJDK 64-Bit Server VM (build 11.0.13+8, mixed mode)
 - Ubuntu
 - macOS Ventura
 
-### Run control panel on deta.space
+### Run control panel on deta.space (not working right now you have to setup the panel on your own server for now)
 
 - Create a account on https://deta.space
 - Download teardroid control panel api from => [click here](https://github.com/ScRiPt1337/Teardroidv4_api/archive/refs/heads/main.zip)
